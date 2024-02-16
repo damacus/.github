@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-See the [Ministry of Justice (MOJ) Security Vulnerability Disclosure Policy](https://mojdigital.blog.gov.uk/vulnerability-disclosure-policy/).
+Please open an issue. or contact me directly on Discord.
